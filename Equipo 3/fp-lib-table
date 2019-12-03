@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Potenciometro)(type KiCad)(uri ${KIPRJMOD}/Nuevo1/Potenciometro.pretty)(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri ${KIPRJMOD}/Logos.pretty)(options "")(descr ""))
+)
